@@ -4,3 +4,27 @@
 .btn{
     background-color: #372865 !important;
 }
+.topline{
+    color: #a298bf;
+  padding: 0.4em 0.9em;
+  background: #372865;
+  display: inline-block;
+  border-radius: 20px;
+  margin-bottom: 1.5em;
+
+}
+.learnmore{
+    color: #CCC1E6;
+}
+.section1{
+    background-color: #F6F9FE !important;
+}
+.heading1{
+    color: #372865;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: bolder;
+    
+}
+.joinbut{
+    width: fit-content !important;
+}
